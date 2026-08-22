@@ -55,7 +55,7 @@
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pr4x9s&theme=merko) -->
 <!-- ![GH Stats](https://github-readme-stats.vercel.app/api?username=pr4x9s&show_icons=true&include_all_commits=true&count_private=true&theme=merko&rank_icon=github) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr4x9s&theme=merko&layout=pie&include_all_commits=true&count_private=true&)](https://github.com/pr4x9s?tab=repositories) -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pr4x9s&theme=merko)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=pr4x9s&theme=github-compact&area=true)
 ![Pac-Man eating my contributions](https://github.com/pr4x9s/pr4x9s/blob/output/github-contribution-grid-pacman.svg)
 <!-- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pr4x9s&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
