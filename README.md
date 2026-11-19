@@ -9,7 +9,7 @@
 👨‍💻 All of my projects are available at *https://github.com/pr4x9s?tab=repositories*<br> [![Portfolio](https://img.shields.io/badge/Portfolio-prantikghosh.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prantikghosh.vercel.app)
 
 ## 🌐 *Socials:*
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/theblacksheep96) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/9.theblacksheep.6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prantikghosh96/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/9theblacksheep6) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pr4x9s) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pr4x9s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prantikghosh96/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pr4x9s)
 
 <!-- ## *Recently added DOM Mini-Projects:*
 - 👨‍💻 Random RGB Color Generator [`https://pr4x9s.github.io/random-rgb-color-generator/`](https://pr4x9s.github.io/random-rgb-color-generator/)
