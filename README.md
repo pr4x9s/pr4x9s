@@ -66,7 +66,7 @@
 <!-- ## 📊 *Stats*
 ![Alt](https://repobeats.axiom.co/api/embed/58850287904965222180173d1526891d1d18b824.svg "Repobeats analytics image") -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created - GPRM ( https://gprm.itsvg.in ) -->
 
 
 
